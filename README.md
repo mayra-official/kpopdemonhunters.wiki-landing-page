@@ -1,6 +1,6 @@
 <meta name="robots" content="noindex" />
 
-# If you are looking for the English KPop Demon Hunters wiki, visit [kpop-demon-hunters.fandom.com](https://kpop-demon-hunters.fandom.com/)
+# If you are looking for the English KPop Demon Hunters Wiki, visit [kpop-demon-hunters.fandom.com](https://kpop-demon-hunters.fandom.com/)
 # Jeżeli szukasz Polskiej Wiki K-popowych łowczyń demonów, odwiedź [pl.kpopdemonhunters.wiki](https://pl.kpopdemonhunters.wiki/)
 ----
 ## If you are an admin of the English wiki
